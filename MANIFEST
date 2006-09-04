@@ -1,0 +1,11 @@
+Changes
+MANIFEST
+META.yml
+Makefile.PL
+README
+lib/WWW/Shorten/Reduus.pm
+t/00-load.t
+t/01-makelong.t
+t/02-makeshort.t
+t/pod-coverage.t
+t/pod.t
